@@ -1,8 +1,8 @@
 div{ 
-    background-color: blue;
+    background-color: #535453;
     border-radius: 0.5px;
     border-style: inset;
-    color: black;
+    color: #89aab8;
     font-size: 20px;
 }
 img{
@@ -17,4 +17,5 @@ border-inline-end:  50px;
 color: #000406;
 padding: 4px;
 }
-h2{text-decoration:  underline;}
+h2{text-decoration: underline overline dotted red;
+    ;}
